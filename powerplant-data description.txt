@@ -1,0 +1,6 @@
+AT - Atmospheric Tempreature degree celsius
+V - Vaccum Pressure Pa
+AP - Atmospheric Pressure Pa
+RH - Relative Humidity %
+PE - Energy output of plant in Mega Watts
+PE is Target feature which is numeric in nature
